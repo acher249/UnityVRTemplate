@@ -1,0 +1,24 @@
+{
+    "MonoBehaviour": {
+        "m_Enabled": true,
+        "m_EditorHideFlags": 0,
+        "m_Name": "Fbx Export Settings",
+        "m_EditorClassIdentifier": "",
+        "mayaCompatibleNames": true,
+        "centerObjects": true,
+        "launchAfterInstallation": true,
+        "HideSendToUnityMenu": true,
+        "ExportFormatSelection": 0,
+        "IntegrationSavePath": "C:/Users/adam.chernick/Desktop/FBX/Integrations",
+        "selectedDCCApp": 0,
+        "convertToModelSavePath": "_FBX",
+        "dccOptionNames": [
+            "3ds Max 2017",
+            "Maya 2016"
+        ],
+        "dccOptionPaths": [
+            "C:/Program Files/Autodesk/3ds Max 2017/3dsmax.exe",
+            "C:/Program Files/Autodesk/Maya2016/bin/maya.exe"
+        ]
+    }
+}
