@@ -1,7 +1,7 @@
 ManifestFileVersion: 0
-CRC: 77310571
+CRC: 131822157
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: room
+      Name: roomandroid
       Dependencies: {}
