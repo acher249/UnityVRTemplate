@@ -1,4 +1,4 @@
 # UnityVRTemplate
 UnityVRTemplate
 
-using Unity 2017.4.1f1
+using Unity 2018.1.6f1
