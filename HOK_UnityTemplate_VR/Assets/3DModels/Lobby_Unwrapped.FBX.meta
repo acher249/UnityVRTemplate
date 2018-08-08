@@ -1,7 +1,5 @@
 fileFormatVersion: 2
 guid: 07073f5a9977af148af0cdb356b01061
-timeCreated: 1520544070
-licenseType: Pro
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
@@ -922,6 +920,9 @@ ModelImporter:
     2300550: W-Wide Flange_Fireproofing_HOK_I W12X22 [1221738]
     2300552: W-Wide Flange_Fireproofing_HOK_I W12X22 [1301210]
     2300554: W-Wide Flange_Fireproofing_HOK_I W12X22 [1310197]
+    2300556: Shiseido 3 Tier Tables Shiseido 3 Tier Tables [961482]
+    2300558: Shiseido 3 Tier Tables Shiseido 3 Tier Tables [961552]
+    2300560: Shiseido Oval Display Table Shiseido Oval Display Table [964115]
     3300000: Back columns Back columns [650154]
     3300002: Back columns1 Back columns [688264]
     3300004: Basic Wall _Generic - 1" glass [612971]
@@ -1215,6 +1216,9 @@ ModelImporter:
     3300550: W-Wide Flange_Fireproofing_HOK_I W12X22 [1221738]
     3300552: W-Wide Flange_Fireproofing_HOK_I W12X22 [1301210]
     3300554: W-Wide Flange_Fireproofing_HOK_I W12X22 [1310197]
+    3300556: Shiseido 3 Tier Tables Shiseido 3 Tier Tables [961482]
+    3300558: Shiseido 3 Tier Tables Shiseido 3 Tier Tables [961552]
+    3300560: Shiseido Oval Display Table Shiseido Oval Display Table [964115]
     4300000: Basic Wall _Generic - 6" [607015]
     4300002: Basic Wall _Generic - 9" [607285]
     4300004: Basic Wall _Generic - 9" [607339]
@@ -1508,6 +1512,9 @@ ModelImporter:
     4300550: Basic Wall F_6.0Stud_0Hr_1GB_FullHtFurring [1659025]
     4300552: W-Wide Flange W12X22 [1664586]
     4300554: ChairTask_Generic_Arms_HOK_I ChairTask_Generic_Arms_HOK_I [674108]001
+    4300556: Shiseido 3 Tier Tables Shiseido 3 Tier Tables [961482]
+    4300558: Shiseido 3 Tier Tables Shiseido 3 Tier Tables [961552]
+    4300560: Shiseido Oval Display Table Shiseido Oval Display Table [964115]
     9500000: //RootNode
   externalObjects: {}
   materials:
@@ -1528,6 +1535,7 @@ ModelImporter:
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
+    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
@@ -1552,6 +1560,8 @@ ModelImporter:
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88

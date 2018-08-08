@@ -26,6 +26,6 @@ public class CreateAssetBundles
             Directory.CreateDirectory(assetBundleDirectory);
         }
         // Choose what platform to build the bundle out to
-        BuildPipeline.BuildAssetBundles(assetBundleDirectory, BuildAssetBundleOptions.None, BuildTarget.Android);
+        BuildPipeline.BuildAssetBundles(assetBundleDirectory, BuildAssetBundleOptions.UncompressedAssetBundle, BuildTarget.Android);
     }
 }
