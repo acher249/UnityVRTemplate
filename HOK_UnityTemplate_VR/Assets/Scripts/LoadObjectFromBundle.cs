@@ -6,17 +6,17 @@ public class LoadObjectFromBundle : MonoBehaviour
 {
     public string url;
 
-    public void DownloadModelOnClick()
+    //public void DownloadModelOnClick()
+    //{
+    //    StartCoroutine("DownloadObject");
+    //    Debug.Log("Clicked Button");
+
+    //}
+
+    void Start()
     {
         StartCoroutine("DownloadObject");
-        Debug.Log("Clicked Button");
-
     }
-
- //   void Start ()
-	//{
-	//    StartCoroutine("DownloadObject");
-	//}
 
     IEnumerator DownloadObject()
     {
