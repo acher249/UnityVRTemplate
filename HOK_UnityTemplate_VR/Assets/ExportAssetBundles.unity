@@ -3259,6 +3259,10 @@ Prefab:
       propertyPath: m_LocalPosition.y
       value: 0.038
       objectReference: {fileID: 0}
+    - target: {fileID: 100356, guid: 07073f5a9977af148af0cdb356b01061, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 07073f5a9977af148af0cdb356b01061, type: 3}
   m_IsPrefabParent: 0
@@ -4081,7 +4085,32 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1564814256555640, guid: b4197515d5e32074096d73b428de72d4, type: 2}
       propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 328433438380307316, guid: b4197515d5e32074096d73b428de72d4,
+        type: 2}
+      propertyPath: m_DataSource
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 328433438380307316, guid: b4197515d5e32074096d73b428de72d4,
+        type: 2}
+      propertyPath: m_Url
+      value: https://firebasestorage.googleapis.com/v0/b/assetbundle-b7e6c.appspot.com/o/LeapMotion_R%26D%201.MOV?alt=media&token=b45b4ef6-f483-4717-92bf-e81f0f083ae5
+      objectReference: {fileID: 0}
+    - target: {fileID: 328433438380307316, guid: b4197515d5e32074096d73b428de72d4,
+        type: 2}
+      propertyPath: m_WaitForFirstFrame
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 328238968550556074, guid: b4197515d5e32074096d73b428de72d4,
+        type: 2}
+      propertyPath: m_DataSource
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 328238968550556074, guid: b4197515d5e32074096d73b428de72d4,
+        type: 2}
+      propertyPath: m_Url
+      value: https://firebasestorage.googleapis.com/v0/b/assetbundle-b7e6c.appspot.com/o/LeapMotion_R%26D%201.MOV?alt=media&token=b45b4ef6-f483-4717-92bf-e81f0f083ae5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: b4197515d5e32074096d73b428de72d4, type: 2}

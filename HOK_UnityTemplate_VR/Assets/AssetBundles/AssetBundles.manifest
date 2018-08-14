@@ -1,7 +1,7 @@
 ManifestFileVersion: 0
-CRC: 635715420
+CRC: 543230444
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: roomwalkwindows
+      Name: roomwalkandroid
       Dependencies: {}
